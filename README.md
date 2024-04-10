@@ -9,7 +9,7 @@
 - Atualmente trabalho como Desenvolvedor SAP Scripting na Dadoteca
 
 - Trabalhei como Técnico de Desenvolvimento Especialista na Companhia Siderúrgica Nacional, CSN, onde fui um dos responsáveis no projeto de padronização dos processos das equipes de 
-Planejamento e Controle de Manutenção (PCM), aplicação de inteligência de negócios ao setor usando Qlik Sense e desenvolvimento de automações via SAP GUI SCcripting
+Planejamento e Controle de Manutenção (PCM), aplicação de inteligência de negócios ao setor usando Qlik Sense e desenvolvimento de automações via SAP GUI Scripting
 
 - Experiência como key-user SAP-PM
 
