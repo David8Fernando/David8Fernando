@@ -4,15 +4,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidfernandopereira/)](https://www.linkedin.com/in/davidfernandopereira)
 
 
-- Estudante de Engenharia de Controle e Automação na UNIPAC Conselheiro Lafaiete
-
-- Atualmente trabalho como Desenvolvedor SAP Scripting na Dadoteca
-
-- Trabalhei como Técnico de Desenvolvimento Especialista na Companhia Siderúrgica Nacional, CSN, onde fui um dos responsáveis no projeto de padronização dos processos das equipes de 
-Planejamento e Controle de Manutenção (PCM), aplicação de inteligência de negócios ao setor usando Qlik Sense e desenvolvimento de automações via SAP GUI Scripting
-
+- Graduado em Engenharia de Controle e Automação
 - Experiência como key-user SAP-PM
-
 - Em aprendizado constante nas áreas de programação, dados, inteligência artificial e cloud
 
 ---------------------------------------------------------------------------------------------------------
