@@ -32,3 +32,8 @@
 
 ---------------------------------------------------------------------------------------------------------
 
+**Certificações**
+
+![](https://github.com/David8Fernando/David8Fernando/tree/main/img/L1_Large.png)
+
+![](https://github.com/David8Fernando/David8Fernando/tree/main/img/CERT-Fundamentals-Power-Platform.png)
