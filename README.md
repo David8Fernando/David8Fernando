@@ -33,10 +33,8 @@
 ---------------------------------------------------------------------------------------------------------
 
 **Certificações**
-![alt text][KNIME]
+![KNIME](https://github.com/David8Fernando/David8Fernando/tree/main/img/L1_Large.png)
 
-[KNIME]:(https://github.com/David8Fernando/David8Fernando/tree/main/img/L1_Large.png) "KNIME"
-
-![alt text][PL900]
+![KNIME](https://github.com/David8Fernando/David8Fernando/tree/main/img/L1_Large.png "KNIME")
 
 [PL900]:(https://github.com/David8Fernando/David8Fernando/tree/main/img/CERT-Fundamentals-Power-Platform.png) "PL-900"
