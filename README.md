@@ -33,8 +33,8 @@
 ### Certificações
 <div style="display: flex; gap: 10px; align-items: center;">
     <img src="https://raw.githubusercontent.com/David8Fernando/David8Fernando/main/img/CERT-Fundamentals-Power-Platform.png" alt="PL-900" width="100" height="100" />
-    <img src="https://images.credly.com/images/db13bd68-2140-44aa-9f70-ce54d604720b/ddbdcbae-b259-4cc2-99d4-1d182fe067e7_cached_image_20250709-28-k6p1kb.png" alt="Databricks Lakehouse Fundamentals" width="130" height="130" />
-    <img src="https://images.credly.com/images/9f070207-776d-4c81-88cb-9918bf9ee51b/48569254-74e7-4264-83b4-0893518ffcac_cached_image_20250709-26-3246cs.png" alt="Databricks Fundamentals" width="130" height="130" />
+    <img src="https://images.credly.com/images/db13bd68-2140-44aa-9f70-ce54d604720b/ddbdcbae-b259-4cc2-99d4-1d182fe067e7_cached_image_20250709-28-k6p1kb.png" alt="Databricks Lakehouse Fundamentals" width="130" height="100" />
+    <img src="https://images.credly.com/images/9f070207-776d-4c81-88cb-9918bf9ee51b/48569254-74e7-4264-83b4-0893518ffcac_cached_image_20250709-26-3246cs.png" alt="Databricks Fundamentals" width="100" height="130" />
     <img src="https://raw.githubusercontent.com/David8Fernando/David8Fernando/main/img/L1_Large.png" alt="KNIME" width="100" height="100" />
     <img src="https://images.credly.com/images/a4c61d4a-f566-4939-89cb-a2fcb5a65247/L2_Large.png" alt="KNIME" width="100" height="100" />
 </div>
