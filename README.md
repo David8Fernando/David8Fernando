@@ -1,45 +1,47 @@
-### Sobre mim
+# David Fernando | Engenheiro de Controle e Automação | Desenvolvedor Power Platform | Consultor de Dados 
 
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/David8Fernando/)](https://github.com/David8Fernando/)
+## 🔗 Conecte-se Comigo
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidfernandopereira/)](https://www.linkedin.com/in/davidfernandopereira/)
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/David8Fernando/)](https://github.com/David8Fernando/)
+[![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@david.frpereira)
+---
 
-- Graduado em Engenharia de Controle e Automação
-- Experiência como key-user SAP-PM
-- Em aprendizado constante nas áreas de programação, dados, inteligência artificial e cloud
+## 💡 Perfil Profissional
+Consultor na área de **Dados** e **Desenvolvedor Power Platform** com mais de **10 anos de experiência** em processos de negócios, planejamento e controle de manutenção (**PCM**)
 
----------------------------------------------------------------------------------------------------------
+Minha especialidade é mapear processos e desenvolver soluções de dados, automações e aplicativos empresariais utilizando o ecossistema Microsoft. Possuo uma base em **Engenharia de Dados** (Pós-graduação em andamento)e certificações como **PL-300** e **DP-900**.
 
-### Habilidades
+Focado na otimização de processos e na transformação de dados brutos em **insights estratégicos**.
 
-**Data**
+---
 
-![Qlik Sense](https://img.shields.io/badge/Qlik_Sense-%23009848?style=plastic&logo=qlik)
-![Power BI](https://img.shields.io/badge/Power_BI-%23F2C811?style=plastic&logo=powerbi&logoColor=black)
-![Power Apps](https://img.shields.io/badge/Power_Apps-%23742774?style=plastic&logo=powerapps&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-%230066FF?style=plastic&logo=powerautomate&logoColor=white)
-![Microsoft Sharepoint](https://img.shields.io/badge/Microsoft_Sharepoint-%230078D4?logo=microsoftsharepoint&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-%230078D4?style=plastic&logo=microsoftazure&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB?style=plastic&logo=python&logoColor=yellow)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626?style=plastic&logo=jupyter&logoColor=black)
-![Mysql](https://img.shields.io/badge/Mysql-%234479A1?style=plastic&logo=mysql&logoColor=black)
+## 💻 Habilidades Técnicas
 
-**ERP**
+| Área | Tecnologias Chave |
+| :--- | :--- |
+| **Power Platform & BI** | **Power Apps** (Canvas/Model-Driven) , **Power Automate**, **Power BI** (PL-300), SharePoint |
+| **Data Engineering & Cloud** | **Python** (Pandas, Selenium, BeautifulSoup) , **Azure** (AZ-900, DP-900) , ETL, MySQL |
+| **Automação & ERP** | **SAP Scripting** (VBA, VBScript) , **SAP PM**, **SAP MM**, RPA (Robotic Process Automation) |
+| **Metodologias** | SCRUM Foundation , Lean Six Sigma (Green Belt, Yellow Belt)  |
 
-![SAP PM](https://img.shields.io/badge/SAP_PM-%230FAAFF?style=plastic&logo=sap&logoColor=white)
-![SAP MM](https://img.shields.io/badge/SAP_MM-%230FAAFF?style=plastic&logo=sap&logoColor=white)
+---
 
----------------------------------------------------------------------------------------------------------
+## 🏅 Principais Certificações
+* **Microsoft Certified: Power BI Data Analyst Associate (PL-300)** 
+* **Microsoft Certified: Power Platform Fundamentals (PL-900)** 
+* **Microsoft Certified: Azure Data Fundamentals (DP-900)** 
+* **Microsoft Certified: Azure Fundamentals (AZ-900)** 
+* Advanced Proficiency in **KNIME Analytics Platform** 
+* Academy Accreditation - Databricks - Lakehouse Fundamentals 
 
-### Certificações
-<div style="display: flex; gap: 10px; align-items: center;">
-    <img src="https://raw.githubusercontent.com/David8Fernando/David8Fernando/main/img/CERT-Fundamentals-Power-Platform.png" alt="PL-900" width="100" height="100" />
-    <img src ="https://images.credly.com/size/680x680/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png" alt = "PL-300" width = "100" height = "100"/>
-    <img src="https://images.credly.com/images/db13bd68-2140-44aa-9f70-ce54d604720b/ddbdcbae-b259-4cc2-99d4-1d182fe067e7_cached_image_20250709-28-k6p1kb.png" alt="Databricks Lakehouse Fundamentals" width="100" height="100" />
-    <img src="https://images.credly.com/images/9f070207-776d-4c81-88cb-9918bf9ee51b/48569254-74e7-4264-83b4-0893518ffcac_cached_image_20250709-26-3246cs.png" alt="Databricks Fundamentals" width="100" height="100" />
-    <img src="https://raw.githubusercontent.com/David8Fernando/David8Fernando/main/img/L1_Large.png" alt="KNIME" width="100" height="100" />
-    <img src="https://images.credly.com/images/a4c61d4a-f566-4939-89cb-a2fcb5a65247/L2_Large.png" alt="KNIME" width="100" height="100" />
+---
+
+## 📈 Estatísticas do GitHub
+<div align="center">
+    <a href="https://github.com/David8Fernando">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=David8Fernando&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+    </a>
+    <a href="https://github.com/David8Fernando">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=David8Fernando&layout=compact&langs_count=6&theme=buefy"/>
+    </a>
 </div>
-
-
-
-
