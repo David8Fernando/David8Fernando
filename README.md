@@ -1,4 +1,4 @@
-# David Fernando | Engenheiro de Controle e Automação | Desenvolvedor Power Platform | Consultor de Dados 
+## Sobre mim 
 
 ## 🔗 Conecte-se Comigo
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidfernandopereira/)](https://www.linkedin.com/in/davidfernandopereira/)
