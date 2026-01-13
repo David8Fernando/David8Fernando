@@ -1,6 +1,6 @@
 ## Sobre mim 
 
-## 🔗 Conecte-se Comigo
+### 🔗 Conecte-se Comigo
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidfernandopereira/)](https://www.linkedin.com/in/davidfernandopereira/)
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/David8Fernando/)](https://github.com/David8Fernando/)
 [![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@david.frpereira)
