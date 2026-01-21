@@ -6,7 +6,7 @@
 [![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@david.frpereira)
 ---
 
-## 💡 Perfil Profissional
+## Perfil Profissional
 Consultor na área de **Dados** e **Desenvolvedor Power Platform** com mais de **10 anos de experiência** em processos de negócios, planejamento e controle de manutenção (**PCM**)
 
 Minha especialidade é mapear processos e desenvolver soluções de dados, automações e aplicativos empresariais utilizando o ecossistema Microsoft. Possuo uma base em **Engenharia de Dados** (Pós-graduação em andamento)e certificações como **PL-300** e **DP-900**.
@@ -15,7 +15,7 @@ Focado na otimização de processos e na transformação de dados brutos em **in
 
 ---
 
-## 💻 Habilidades Técnicas
+## Habilidades Técnicas
 
 | Área | Tecnologias Chave |
 | :--- | :--- |
@@ -26,7 +26,7 @@ Focado na otimização de processos e na transformação de dados brutos em **in
 
 ---
 
-## 🏅 Principais Certificações
+## Principais Certificações
 * **Microsoft Certified: Power BI Data Analyst Associate (PL-300)** 
 * **Microsoft Certified: Power Platform Fundamentals (PL-900)** 
 * **Microsoft Certified: Azure Data Fundamentals (DP-900)** 
@@ -36,7 +36,7 @@ Focado na otimização de processos e na transformação de dados brutos em **in
 
 ---
 
-## 📈 Estatísticas do GitHub
+## Estatísticas do GitHub
 <div align="center">
     <a href="https://github.com/David8Fernando">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=David8Fernando&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
