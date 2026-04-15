@@ -7,9 +7,9 @@
 ---
 
 ## Perfil Profissional
-Consultor na área de **Dados** e **Desenvolvedor Power Platform** com mais de **10 anos de experiência** em processos de negócios, planejamento e controle de manutenção (**PCM**)
+Atuando na área de **Dados** e **Desenvolvedor Power Platform** com mais de **10 anos de experiência** em processos de negócios, planejamento e controle de manutenção (**PCM**)
 
-Minha especialidade é mapear processos e desenvolver soluções de dados, automações e aplicativos empresariais utilizando o ecossistema Microsoft. Possuo uma base em **Engenharia de Dados** (Pós-graduação em andamento)e certificações como **PL-300** e **DP-900**.
+Minha especialidade é mapear processos e desenvolver soluções de dados, automações e aplicativos empresariais utilizando o ecossistema Microsoft. Possuo uma base em **Engenharia de Dados** (Pós-graduação em andamento)e certificações como **PL-300** e **DP-600**.
 
 Focado na otimização de processos e na transformação de dados brutos em **insights estratégicos**.
 
